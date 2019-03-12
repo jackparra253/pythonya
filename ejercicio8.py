@@ -11,4 +11,5 @@ sueldo_diario = cantidad_horas * valor_hora
 cantidad_dias = 30
 sueldo_mensual  = sueldo_diario * cantidad_dias
 
-print "El salario mensual es: " + str(sueldo_mensual)
+print("El salario mensual es:" )
+print(sueldo_mensual)
